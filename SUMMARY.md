@@ -1,4 +1,12 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Devadmin Playbooks](README.md)
+
+## Onboarding
+
+* [Buddy Program](onboarding/buddy-program.md)
+
+## Meta
+
+* [Improving documentation](meta/improving-documentation.md)
 
