@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Devadmin Playbooks](README.md)
+* [Devadmin Playbooks Overview](README.md)
 
 ## Onboarding
 

@@ -1,2 +1,6 @@
-# Devadmin Playbooks
+---
+description: Placeholder INDEX file
+---
+
+# Devadmin Playbooks Overview
 
