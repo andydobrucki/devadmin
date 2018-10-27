@@ -46,19 +46,19 @@ To improve communications and understanding, its useful for your proposed change
 
 If you want to become a maintainer ask @victor
 
-### Improvements and Disagreements {#improvements-and-disagreements}
+### Improvements and Disagreements <a id="improvements-and-disagreements"></a>
 
 If you think the content in the handbook is inaccurate or could be improved follow the process above to submit your own changes. The contribution process may reveal differences of opinion. In these cases, try to understand each others perspective. 
 
-### The Gitbook Method {#the-gitbooks-method}
+### The Gitbook Method <a id="the-gitbooks-method"></a>
 
 You can also edit the handbook using the [Gitbook Editor](https://www.gitbook.com/editor). If you know how to do that, why don't you go ahead and update this page to explain it to someone else :\)
 
-### Updating the Table of Contents/Menu {#updating-the-table-of-contentsmenu}
+### Updating the Table of Contents/Menu <a id="updating-the-table-of-contentsmenu"></a>
 
 You can update the menu by editing the `SUMMARY.md` file.
 
-### Previewing changes before merging a pull request {#previewing-changes-before-merging-a-pull-request}
+### Previewing changes before merging a pull request <a id="previewing-changes-before-merging-a-pull-request"></a>
 
 Gitbook automatically renders all branches on Github, so you can preview what a pull request will look like before merging it.
 

@@ -10,3 +10,7 @@
 
 * [Improving documentation](meta/improving-documentation.md)
 
+## Development
+
+* [Java Coding Playbook](development/devadmin-java-coding-standard.md)
+
